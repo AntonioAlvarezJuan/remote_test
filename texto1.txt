@@ -1,3 +1,4 @@
 1- acabo de crear el repositorio con git init
 2- acabo de añadir el fichero a git
 3- acabo de hacer un cambio. aun no he hecho ningun commit
+4- vuelta a empezar
